@@ -12,9 +12,9 @@ It is organized sequentially, beginning with the first step in hiring (writing a
 
 # Job listing resources
 
-[A long list of ideas about how to list job ads. Brainstorming Job Listing Resources](https://docs.google.com/document/d/1uDaF6oKris7S2cNPtqdmq7XagZNX-Cs5ogas3PbDcCE/edit?usp=sharing)
-[A short how-to about how to list job ads. How to distribute your job ad](https://docs.google.com/document/d/1MNcRwrB-oAA9gYlFsdgBHT2qvxv70G5tDpR2xK_hX-Y/edit?usp=sharing)
-[More resources](https://drive.google.com/drive/folders/1rkgDWBaU27UPEx08cjZ00cn4YnZlkvjm?usp=sharing)
+- [Brainstorming Job Listing Resources](https://docs.google.com/document/d/1uDaF6oKris7S2cNPtqdmq7XagZNX-Cs5ogas3PbDcCE/edit?usp=sharing)- A long list of ideas about how to list job ads. 
+- [How to distribute your job ad](https://docs.google.com/document/d/1MNcRwrB-oAA9gYlFsdgBHT2qvxv70G5tDpR2xK_hX-Y/edit?usp=sharing)-A short how-to about how to list job ads. 
+- [More resources](https://drive.google.com/drive/folders/1rkgDWBaU27UPEx08cjZ00cn4YnZlkvjm?usp=sharing)
 
 # Interviewing resources
 
@@ -22,7 +22,8 @@ It is organized sequentially, beginning with the first step in hiring (writing a
 
 # Welcoming
 
-[NWFSC Welcome Packet](https://docs.google.com/document/d/1j7RBZumT_3ITtBPI2fBZd12w1R26Zl2KjxrLLGMOT18/edit?usp=sharing)
-[More resources](https://drive.google.com/drive/folders/1xhm4_nOP2YJUp3Ze7xH0sRjIBAL__deU)
+- [NWFSC Welcome Packet](https://docs.google.com/document/d/1j7RBZumT_3ITtBPI2fBZd12w1R26Zl2KjxrLLGMOT18/edit?usp=sharing)
+- [More resources](https://drive.google.com/drive/folders/1xhm4_nOP2YJUp3Ze7xH0sRjIBAL__deU)
 
-[General resources](https://drive.google.com/drive/folders/1gaZR8MF2D-jRjOFX8_hBlz5cRQ4B7NQ5) related to inclusive recruitment, hiring, and onboarding
+# General Resources
+- [General resources](https://drive.google.com/drive/folders/1gaZR8MF2D-jRjOFX8_hBlz5cRQ4B7NQ5) related to inclusive recruitment, hiring, and onboarding
